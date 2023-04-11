@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Name]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[Entering company name]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Email]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[Entering number]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Get Started button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-11T15:44:03 CEST" name="Default suite" finished-at="2023-04-11T15:44:50 CEST" duration-ms="47557">
+    <groups>
+    </groups>
+    <test started-at="2023-04-11T15:44:03 CEST" name="Default test" finished-at="2023-04-11T15:44:50 CEST" duration-ms="47557">
+      <class name="TestCases.TC_textField">
+        <test-method is-config="true" signature="launchVisuer()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:03 CEST" name="launchVisuer" finished-at="2023-04-11T15:44:09 CEST" duration-ms="5873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchVisuer -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:09 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:11 CEST" duration-ms="2231" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingTextField()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:11 CEST" name="validatingTextField" finished-at="2023-04-11T15:44:12 CEST" duration-ms="1029" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingTextField -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:12 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:14 CEST" duration-ms="1929" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingCompanyField()[pri:1, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:14 CEST" name="validatingCompanyField" finished-at="2023-04-11T15:44:14 CEST" duration-ms="256" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering company name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingCompanyField -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:14 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:16 CEST" duration-ms="1862" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingEmailField()[pri:2, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:16 CEST" name="validatingEmailField" finished-at="2023-04-11T15:44:16 CEST" duration-ms="223" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Email]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingEmailField -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:16 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:18 CEST" duration-ms="1867" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingNoField()[pri:3, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:18 CEST" name="validatingNoField" finished-at="2023-04-11T15:44:18 CEST" duration-ms="202" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering number]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingNoField -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:18 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:20 CEST" duration-ms="2080" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingIndustryDropDown()[pri:4, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:20 CEST" name="validatingIndustryDropDown" finished-at="2023-04-11T15:44:21 CEST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingIndustryDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:21 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:23 CEST" duration-ms="1972" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingProjectDropDown()[pri:5, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:23 CEST" name="validatingProjectDropDown" finished-at="2023-04-11T15:44:24 CEST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingProjectDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:24 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:26 CEST" duration-ms="1856" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingProgramDropDown()[pri:6, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:26 CEST" name="validatingProgramDropDown" finished-at="2023-04-11T15:44:27 CEST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingProgramDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:27 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:30 CEST" duration-ms="2510" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingCheckBox()[pri:7, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:30 CEST" name="validatingCheckBox" finished-at="2023-04-11T15:44:30 CEST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCheckBox -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:30 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:32 CEST" duration-ms="2286" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingBudgetDropDown()[pri:8, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:32 CEST" name="validatingBudgetDropDown" finished-at="2023-04-11T15:44:34 CEST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingBudgetDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:34 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:36 CEST" duration-ms="2730" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingTimelineDropDown()[pri:9, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:36 CEST" name="validatingTimelineDropDown" finished-at="2023-04-11T15:44:38 CEST" duration-ms="1592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingTimelineDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:38 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:41 CEST" duration-ms="3001" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingContentDropDown()[pri:10, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:41 CEST" name="validatingContentDropDown" finished-at="2023-04-11T15:44:43 CEST" duration-ms="1647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingContentDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:43 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:45 CEST" duration-ms="2244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingApprovalDropDown()[pri:11, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:45 CEST" name="validatingApprovalDropDown" finished-at="2023-04-11T15:44:47 CEST" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingApprovalDropDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:47 CEST" name="beforeMethod" finished-at="2023-04-11T15:44:49 CEST" duration-ms="2100" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on Get Started button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatingMessageField()[pri:12, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:49 CEST" name="validatingMessageField" finished-at="2023-04-11T15:44:50 CEST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingMessageField -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestCases.TC_textField@1ffaf86]" started-at="2023-04-11T15:44:50 CEST" name="afterClass" finished-at="2023-04-11T15:44:50 CEST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TC_textField -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
